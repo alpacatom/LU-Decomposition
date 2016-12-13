@@ -1,4 +1,7 @@
-# LU-Decompositision
+LU-Decompositision
+====
+
+Overview
 LU分解のガウス消去法による解法をFortranとMPIで実装しました。
 実行にはmpif.hが必要ですが、無くしたので見つけ次第追加します。
 
